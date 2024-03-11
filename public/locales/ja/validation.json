@@ -1,0 +1,27 @@
+{
+  "email":{
+    "format": "・メールアドレスの書式が正しくありません。",
+    "blankFront": "・メールアドレスの前に空白文字があります。削除してください。",
+    "blankBack": "・メールアドレスの後に空白文字があります。削除してください。",
+    "match": "・メールアドレスが一致しません。同じメールアドレスを入力してください。"
+  },
+  "textRequired": "・空白文字以外を入力してください。",
+  "maxLength":"・{{length}}文字以上必要です。",
+  "password":{
+    "format":"・パスワードは英文字（大文字、小文字）、数字、記号から3種類以上を使用してください。",
+    "confirm": "・パスワードが一致しません。同じパスワードを入力してください。"
+  },
+  "mailPasswordMatch":"・メールアドレスまたはパスワードが正しくありません。",
+  "phoneFormat":"・0から始まるハイフンなしの11桁で入力してください。",
+  "otpCodeFormat":{
+    "regular":"・The format of the result report authorization code is incorrect.",
+    "report":"・結果レポート認証コードの形式が正しくありません。"
+  },
+  "membershipNoRequired":"・会員番号を正しく入力してください。",
+  "transferCodeFormat":"・譲渡コードは9桁の半角英数で入力してください。",
+  "patientFormat":"・ハイメディックIDは8桁以下の半角数字で入力してください。",
+  "nameText":{
+    "kanaFull":"・氏名（カナ）には全角カナのみ入力してください。",
+    "noBlank":"・氏名（カナ）には空白文字は入力しないでください。"
+  }
+}

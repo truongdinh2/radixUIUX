@@ -1,0 +1,16 @@
+{
+  "Result report": "Result report",
+  "Because the result report contains sensitive personal information, only the person undergoing the examination can view it.":"Because the result report contains sensitive personal information, only the person undergoing the examination can view it.",
+  "*You will need the \"result report code\" given to you after your consultation.":"*You will need the \"result report code\" given to you after your consultation.",
+  "Are you the recipient?": "Are you the recipient?",
+  "I am the person who underwent the examination.": "I am the person who underwent the examination.",
+  "View result report": "View result report",
+  "Please enter the \"Result Report Certification Code\" given to you at the facility where you received your treatment.":"Please enter the \"Result Report Certification Code\" given to you at the facility where you received your treatment.",
+  "Results report verification code":"Results report verification code",
+  "Please enter 8 half-width uppercase alphanumeric characters.":"Please enter 8 half-width uppercase alphanumeric characters.",
+  "*“0” means zero, “1” means one.":"*“0” means zero, “1” means one.",
+  "contactUs": "If you do not know your result report verification code, please ",
+  "contact": "contact us",
+  "contactLast": " us by phone.",
+  "Next": "Next"
+}

@@ -1,0 +1,178 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0, 0%, 96%, 1;
+    --foreground: 222.2 84% 4.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+    --no-bg-hover: #00000008;
+
+    /* --primary: 222.2 47.4% 11.2%; */
+    --primary: 47 26% 46%;
+    --primary-foreground: 210 40% 98%;
+
+    /* --secondary: 210 40% 96.1%; */
+    --secondary: 2 29% 41%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+    --accent: 210 40% 96.1%;
+    --accent-foreground: 222.2 47.4% 11.2%;
+
+    /* --destructive: 0 84.2% 60.2%; */
+    --destructive: 0 100% 70%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 222.2 84% 4.9%;
+    --white400: 0 6% 97%; /* #F7F6F6 */
+    --radius: 0.5rem;
+    --base900: #331007;
+    --base700: #614b45;
+    --base200: #bc988c;
+    --primary900: #938657;
+    --primary800: #b5ac61;
+    --black900: #2d2c2a;
+    --black700: #6f6e6c;
+    --black600: #848380;
+    --black500: #aeadaa;
+    --black400: #cccac8;
+    --black300: #edebea;
+    --black100: #f4f4f4;
+    --white: #fff;
+    --yellow: #dac46f;
+    --red800: #e80000;
+    --red50: #fee7e6;
+    --dusty-plum: #857b79;
+    --blue: #0047ff;
+    --blue300: #477fec;
+    --google-map: 219 80% 60%;
+    --link: #1d58f0;
+    --pc-main: 0, 0%, 96%, 1;
+    --ondark-light: 25, 16%, 85%, 1;
+    --form: 0, 6%, 97%, 1;
+    --form-unchecked: #d9d9d9;
+    --label: 10, 5%, 50%, 1;
+    --option: #ebe6e9;
+    --option-selected: #5e9cf8;
+    --error: #ff6464;
+
+    /** home */
+    --gray80: 0 0% 86.67% / 80%;
+    --brown300: #a69273;
+    --gray-d7: #d7d7d7;
+    --black-4d: #4d4848;
+    --black-6a: #6a6767;
+    --yellow-e1: #e1ac23;
+    --black-3b: #3b313166;
+    --black-3b80: #3b313180;
+  }
+
+  .dark {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+    --primary: 210 40% 98%;
+    --primary-foreground: 222.2 47.4% 11.2%;
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+    --accent: 217.2 32.6% 17.5%;
+    --accent-foreground: 210 40% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 212.7 26.8% 83.9%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sansJP;
+  }
+}
+
+@supports (-moz-appearance: none) {
+  * {
+    scrollbar-color: #c3c4c4 #eee;
+    scrollbar-width: thin;
+  }
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: #ecf2fd;
+  border-radius: 0;
+}
+
+::-webkit-scrollbar-thumb {
+  width: 1px;
+  background: #ccc;
+  border-radius: 10px;
+  border: 2px solid #ecf2fd;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #b3b6b650;
+}
+
+.fontsize-xxs {
+  @apply text-xxs leading-common;
+}
+
+.fontsize-xs {
+  @apply text-xs leading-common;
+}
+
+.fontsize-s {
+  @apply text-sm leading-common;
+}
+
+.fontsize-m {
+  @apply text-base leading-common;
+}
+
+.fontsize-l {
+  @apply text-lg leading-common;
+}
+
+.heading-s {
+  @apply text-lg leading-heading;
+}
+
+.heading-m {
+  @apply text-xl leading-heading;
+}
+
+.heading-l {
+  @apply text-[1.375rem] leading-heading;
+}
+
+.flex-center {
+  @apply flex items-center justify-center;
+}
+
+.heading-base {
+  @apply text-base leading-[1.6rem];
+}
+
+.error-message {
+  @apply font-normal text-red800 text-xs !mt-1.5;
+}

@@ -1,0 +1,27 @@
+{
+  "email": {
+    "format": "・Định dạng của địa chỉ email không chính xác.",
+    "blankFront": "・Có một ký tự khoảng trắng trước địa chỉ email. Vui lòng xóa nó.",
+    "blankBack": "・Có ký tự khoảng trắng sau địa chỉ email. Vui lòng xóa nó.",
+    "match": "・Địa chỉ email không khớp. Vui lòng nhập cùng một địa chỉ email."
+  },
+  "textRequired": "・Vui lòng nhập ký tự không trống.",
+  "maxLength": "・Yêu cầu ít nhất {{length}} ký tự.",
+  "password": {
+    "format": "・Vui lòng sử dụng ít nhất ba loại ký tự chữ và số (chữ hoa và chữ thường), số và ký hiệu cho mật khẩu của bạn.",
+    "confirm": "・Mật khẩu không khớp. Vui lòng nhập đúng mật khẩu."
+  },
+  "mailPasswordMatch": "・Địa chỉ email hoặc mật khẩu không chính xác.",
+  "phoneFormat": "・Vui lòng nhập 11 chữ số bắt đầu từ 0, không có dấu gạch nối.",
+  "otpCodeFormat": {
+    "regular": "・Định dạng của mã ủy quyền báo cáo kết quả không chính xác.",
+    "report": "・Định dạng của mã xác thực báo cáo kết quả không chính xác."
+  },
+  "membershipNoRequired": "・Vui lòng nhập chính xác số thành viên của bạn.",
+  "transferCodeFormat": "・Vui lòng nhập mã chuyển khoản bằng các ký tự chữ và số có độ rộng 9 chữ số.",
+  " PatientFormat": "・Vui lòng nhập ID HIMEDIC bằng cách sử dụng các số nửa chiều rộng có 8 chữ số trở xuống.",
+  "nameText": {
+    "kanaFull": "・Vui lòng chỉ nhập kana có độ rộng đầy đủ cho tên của bạn (kana)",
+     "noBlank": "・Xin vui lòng không nhập ký tự trống trong tên (kana)."
+  }
+}

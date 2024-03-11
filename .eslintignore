@@ -1,0 +1,16 @@
+package.json
+package-lock.json
+tsconfig.json
+src/components/ui/*
+src/styles/*
+next-env.d.ts
+public/*
+dist/*
+src/assets/*
+*.json
+*.scss
+*.d.ts
+!.storybook
+!.eslintrc.json
+!.lintstagedrc.json
+!postcss.config.js

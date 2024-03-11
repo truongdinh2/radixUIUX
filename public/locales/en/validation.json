@@ -1,0 +1,27 @@
+{
+  "email":{
+    "format": "・The format of the email address is incorrect.",
+    "blankFront": "・There is a space character before the email address. Please delete it.",
+    "blankBack": "・There is a space character after the email address. Please delete it.",
+    "match": "・The email addresses do not match. Please enter the same email address."
+  },
+  "textRequired": "・Please enter a non-blank character.",
+  "maxLength":"・Requires at least {{length}} characters.",
+  "password":{
+    "format":"・Please use at least three types of alphanumeric characters (uppercase and lowercase), numbers, and symbols for your password.",
+    "confirm": "・Passwords do not match. Please enter the same password."
+  },
+  "mailPasswordMatch":"・The email address or password is incorrect.",
+  "phoneFormat":"・Please enter 11 digits starting from 0 without hyphens.",
+  "otpCodeFormat":{
+    "regular":"・Please enter the verification number correctly.",
+    "report":"・The format of the result report authentication code is incorrect."
+  },
+  "membershipNoRequired":"・Please enter your membership number correctly.",
+  "transferCodeFormat":"・Please enter the transfer code in 9-digit half-width alphanumeric characters.",
+  "patientFormat":"・Please enter the Hi-Medic ID using half-width numbers of 8 digits or less.",
+  "nameText":{
+    "kanaFull":"・Please enter only full-width kana for your name (kana).",
+    "noBlank":"・Please do not enter blank characters in the name (kana)."
+  }
+}

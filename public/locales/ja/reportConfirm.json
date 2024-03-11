@@ -1,0 +1,16 @@
+{
+  "Result report": "結果レポート",
+  "Because the result report contains sensitive personal information, only the person undergoing the examination can view it.":"結果レポートは機微な個人情報を含むため、受診されたご本人以外は閲覧いただけません。",
+  "*You will need the \"result report code\" given to you after your consultation.":"※受診後にお渡しいたしました「結果レポートコード」が必要です。",
+  "Are you the recipient?": "あなたは受信されたご本人ですか？",
+  "I am the person who underwent the examination.": "受診した本人です",
+  "View result report": "結果レポートをみる",
+  "Please enter the \"Result Report Certification Code\" given to you at the facility where you received your treatment.":"受診施設でお渡ししました「結果レポート認証コード」を入力してください。",
+  "Results report verification code":"結果レポート認証コード",
+  "Please enter 8 half-width uppercase alphanumeric characters.":"8桁の半角英数字大文字を入力してください。",
+  "*“0” means zero, “1” means one.":"※「0」表記はゼロ、「1」表記はイチです。",
+  "contactUs": "結果レポート認証コードがわからない場合はお電話にてください",
+  "contact": "お問い合わせ",
+  "contactLast": "ください",
+  "Next": "次へ"
+}

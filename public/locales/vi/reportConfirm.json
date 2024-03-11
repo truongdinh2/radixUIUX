@@ -1,0 +1,16 @@
+{
+  "Result report": "Báo cáo kết quả",
+  "Because the result report contains sensitive personal information, only the person undergoing the examination can view it.":"Vì báo cáo kết quả chứa thông tin cá nhân nhạy cảm nên chỉ người thực hiện khám bệnh mới có thể xem nó.",
+  "*You will need the \"result report code\" given to you after your consultation.":"*Bạn sẽ cần \"mã báo cáo kết quả\" được cung cấp cho bạn sau khi khám bệnh.:",
+  "Are you the recipient?": "Bạn có phải là người nhận không?",
+  "I am the person who underwent the examination.": "Tôi là người đã được khám bệnh.",
+  "View result report": "Xem báo cáo kết quả",
+  "Please enter the \"Result Report Certification Code\" given to you at the facility where you received your treatment.":"Vui lòng nhập \"Mã chứng nhận báo cáo kết quả\" được cung cấp cho bạn tại cơ sở nơi bạn được điều trị.",
+  "Results report verification code":"Mã xác minh báo cáo kết quả",
+  "Please enter 8 half-width uppercase alphanumeric characters.":"Vui lòng nhập 8 ký tự chữ và số viết hoa có độ rộng nửa độ rộng",
+  "*“0” means zero, “1” means one.":"*“0” có nghĩa là không, “1” có nghĩa là một",
+  "contactUs": "Nếu bạn không biết mã xác minh báo cáo kết quả của mình, vui lòng ",
+  "contact": "liên hệ ",
+  "contactLast": "với chúng tôi qua điện thoại.",
+  "Next": "Tiếp theo"
+}

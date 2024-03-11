@@ -1,0 +1,27 @@
+{
+  "Return":"戻る",
+  "Add membership card":"会員証の追加",
+  "Adding a membership card Please enter the Grand HIMEDIC Club membership number to be added":"追加するグランドハイメディック倶楽部会員番号を入力してください。",
+  "Please enter the half-width digit “-”":"半角数字「-」を入れて入力してください",
+  "Addition":"追加",
+  "Smart membership card list":"スマート会員証一覧",
+  "Please select your membership number.":"会員番号を選択してください。",
+  "If you want to add a membership card to manage (applicable only to the new comprehensive course),":"管理する会員証を追加したい場合（新総合コースのみが対象です）、",
+  "Contact Desk Club Desk":"お問い合わせ窓口  クラブデスク",
+  "We accept orders at":"にて承ります。",
+  "Please have the membership card number registered in the app and the new membership card number ready when you call us.":"お手元にアプリにご登録されている会員証の番号と、新たに追加される会員書の番号をご用意の上、お電話ください。",
+  "Satoshi Genma":"玄馬 敏",
+  "The information at the time of application is displayed.":"お申し込み時の内容を表示しております。",
+  "Please present your Grand HIMEDIC Club membership card (or this screen) and identification card at the time of reception.":"受診受付時にはグランドハイメディック倶楽部の会員証（あるいは本画面）および身分証明書をご提示ください。",
+  "This application cannot be lent or transferred to a third party.":"本アプリは、第三者に貸与・譲渡できません。",
+  "If the device on which this application is installed is lost or damaged to the point that it cannot be used, please contact us immediately.":"本アプリをインストールされた端末を紛失または、利用ができないほどの破損が発生した場合は、ただちに当社までご連絡ください。",
+  "If you lose your membership, you will no longer be able to use some features of this app. Please note":"会員の資格を喪失された場合、本アプリの一部機能が利用できなくなります。あらかじめご了承ください。",
+  "Himedic Co., Ltd.":"株式会社ハイメディック",
+  "Smart membership card details":"スマート会員証詳細",
+  "Name/Corporation name":"氏名/法人名",
+  "Membership card issue date":"会員証発行日",
+  "Membership number":"会員番号",
+  "Home":"ホーム",
+  "Clinic":"クリニック"
+}
+
